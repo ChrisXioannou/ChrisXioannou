@@ -7,10 +7,10 @@ soon added....
  <h2>💻 Programming Projects:</h2>
  
 - <b> Java: Airport Hub Manager with GUI</b>
-  - [AirportHub](https://github.com/ChrisXioannou/Airport-Hub-Manager)
+  - [AirportHub Project Link](https://github.com/ChrisXioannou/Airport-Hub-Manager)
     
 - <b>c# soon added </b>
 
 
 <h2>📜 Certification</h2>
-
+- [Google Cybersecurity Certificate — Online certificate]([https://github.com/ChrisXioannou/Airport-Hub-Manager](https://coursera.org/verify/professional-cert/P8EV4EFLXEVX)https://coursera.org/verify/professional-cert/P8EV4EFLXEVX)
