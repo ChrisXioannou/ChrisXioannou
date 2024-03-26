@@ -7,7 +7,7 @@ soon added....
  <h2>💻 Programming Projects:</h2>
  
 - <b> Java: Airport Hub Manager with GUI</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [AirportHub](https://github.com/ChrisXioannou/Airport-Hub-Manager)
     
 - <b>c# soon added </b>
 
