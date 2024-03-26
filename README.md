@@ -11,7 +11,7 @@
 
  <h2>💻 Programming Projects:</h2>
  
-- <b>Java Small Aiport Simulation</b>
+- <b> Java: Airport Hub Manager with GUI</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
