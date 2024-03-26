@@ -1,15 +1,17 @@
-<h1>Hi, I'm Chris!👋</h1>
-<h2>Programmer, Aspiring Cyber Security Professional</h2>
+# Hi, I'm Chris! 👋
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
-soon added....
+## Programmer, Aspiring Cyber Security Professional
 
-<h2>💻 Programming Projects:</h2>
+## 👨‍💻 Cyber Security Projects:
+soon added...
+
+## 💻 Programming Projects:
 
 - Java: Airport Hub Manager with GUI
   - [AirportHub Project Link](https://github.com/ChrisXioannou/Airport-Hub-Manager)
-    
+
 - c# soon added
 
-<h2>📜 Certification</h2>
-- [Google Cybersecurity Certificate — Online certificate](https://coursera.org/verify/professional-cert/P8EV4EFLXEVX)
+## 📜 Certification
+- CyberSecurity Certificate by Google 
+  - [Certificate Cybersecurity Link](https://coursera.org/verify/professional-cert/P8EV4EFLXEVX)
