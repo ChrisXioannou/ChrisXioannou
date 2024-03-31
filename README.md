@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Cyber Security Projects:
 
-- Virtual Internal network with Active Directory Server.
+- Virtual network running Active Directory(Oracle VirtualBox).
   - [Active Directory Home Lab Link](https://github.com/ChrisXioannou/HomeLabDirectory)
 
 ## 💻 Programming Projects:
