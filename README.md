@@ -4,8 +4,8 @@
 
 ## 👨‍💻 Cyber Security Projects:
 
-- Virtualized Active Directory Home Lab
-  - A detailed setup of a virtualized network using Active Directory, DNS, RAS, NAT, and VPN configurations for a Windows Server environment. [View Home Lab Project](https://github.com/ChrisXioannou/HomeLabDirectory)
+- Virtual Internal network with Active Directory Server.
+  - [Active Directory Home Lab Link](https://github.com/ChrisXioannou/HomeLabDirectory)
 
 ## 💻 Programming Projects:
 
