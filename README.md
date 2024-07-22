@@ -1,6 +1,6 @@
 # Hi, I'm Chris! 👋
 
-## Programmer, Cyber Security And AI Enthusiast
+## Programmer, Cyber Security and AI enthusiast
 
 ## 👨‍💻 Cyber Security Projects:
 
