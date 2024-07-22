@@ -13,7 +13,7 @@
   - [AirportHub Project](https://github.com/ChrisXioannou/Airport-Hub-Manager)
   - [Psychotherapist Chatbot](https://github.com/ChrisXioannou/Psychotherapist-Chatbot)
 
-- c# soon added...
+- more soon added...
 
 ## 📜 Certification
 - CyberSecurity Certificate by Google 
