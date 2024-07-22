@@ -5,12 +5,12 @@
 ## 👨‍💻 Cyber Security Projects:
 
 - Virtual network running Active Directory(Oracle VirtualBox).
-  - [Active Directory Home Lab Link](https://github.com/ChrisXioannou/HomeLabDirectory)
+  - [Active Directory Home Lab](https://github.com/ChrisXioannou/HomeLabDirectory)
 
 ## 💻 Programming Projects:
 
 - Java: Airport Hub Manager with GUI
-  - [AirportHub Project Link](https://github.com/ChrisXioannou/Airport-Hub-Manager)
+  - [AirportHub Project](https://github.com/ChrisXioannou/Airport-Hub-Manager)
   - [Psychotherapist Chatbot](https://github.com/ChrisXioannou/Psychotherapist-Chatbot)
 
 - c# soon added...
