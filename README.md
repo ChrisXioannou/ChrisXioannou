@@ -9,7 +9,7 @@
 - Virtual network run as a Security Operations Center (SOC)
   - [Network Security Lab with pfSense and Active Directory](https://github.com/ChrisXioannou/SOC_PFSPLINE)
 
-  - more soon added...
+- more soon added...
   
 
 ## 💻 Programming Projects:
