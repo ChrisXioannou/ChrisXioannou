@@ -6,6 +6,8 @@
 
 - Virtual network running Active Directory(Oracle VirtualBox).
   - [Active Directory Home Lab](https://github.com/ChrisXioannou/HomeLabDirectory)
+  - [Network Security Lab with pfSense and Active Directory](https://github.com/ChrisXioannou/SOC_PFSPLINE)
+  
 
 ## 💻 Programming Projects:
 
