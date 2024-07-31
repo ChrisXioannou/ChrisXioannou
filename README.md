@@ -15,7 +15,7 @@
 ## 💻 Programming Projects:
 
 - Java: Airport Hub Manager with GUI
-  - [AirportHub Project](https://github.com/ChrisXioannou/Airport-Hub-Manager)
+  - [AirportHub with GUI](https://github.com/ChrisXioannou/Airport-Hub-Manager)
 - Python: ChatBot used as a Psychotherapist
   - [Psychotherapist Chatbot](https://github.com/ChrisXioannou/Psychotherapist-Chatbot)
 
