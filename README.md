@@ -2,7 +2,7 @@
 
 ## Programmer, Cyber Security and AI enthusiast
 
-## 👨‍💻 Cyber Security Projects: dsdsdsadsada
+## 👨‍💻 Cyber Security Projects: dsadas
 
 - Virtual network running Active Directory(Oracle VirtualBox)
   - [Active Directory Home Lab](https://github.com/ChrisXioannou/HomeLabDirectory)
