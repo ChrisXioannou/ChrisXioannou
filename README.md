@@ -1,6 +1,6 @@
 # Hi, I'm Chris! 👋
 
-## Programmer, Cyber Security and AI enthusiast dddd
+## Programmer, Cyber Security and AI enthusiast 
 
 ## 👨‍💻 Cyber Security Projects:
 - Virtual network running Active Directory(Oracle VirtualBox)
