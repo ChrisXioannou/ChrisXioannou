@@ -18,7 +18,7 @@
 - Python: ChatBot used as a Psychotherapist
   - [Psychotherapist Chatbot](https://github.com/ChrisXioannou/Psychotherapist-Chatbot)
 
-- more soon added... rrrrrrrrrrrrrrrrrrrrrrrrrrr
+- more soon added...
 
 ## 📜 Certification
 - CyberSecurity Certificate by Google 
