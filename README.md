@@ -18,7 +18,7 @@
 - Python: ChatBot used as a Psychotherapist
   - [Psychotherapist Chatbot](https://github.com/ChrisXioannou/Psychotherapist-Chatbot)
 
-- more soon added...
+- Currently working on Intrusion Detection system intergrading Machine Learning for threat classification
 
 ## 📜 Certification
 - CyberSecurity Certificate by Google 
