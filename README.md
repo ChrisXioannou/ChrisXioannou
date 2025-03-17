@@ -7,10 +7,8 @@
   - [Active Directory Home Lab](https://github.com/ChrisXioannou/HomeLabDirectory)
 - Virtual network run as a Security Operations Center (SOC)
   - [Network Security Lab with pfSense and Active Directory](https://github.com/ChrisXioannou/SOC_PFSPLINE)
-
-- more soon added...
+- Intrusion Detection System Using Supervised Machine Learning Models
   
-
 ## 💻 Programming Projects: 
 
 - Java: Airport Hub Manager with GUI
@@ -18,7 +16,6 @@
 - Python: ChatBot used as a Psychotherapist
   - [Psychotherapist Chatbot](https://github.com/ChrisXioannou/Psychotherapist-Chatbot)
 
-- Currently working on Intrusion Detection system intergrading Machine Learning for threat classification
 
 ## 📜 Certification
 - CyberSecurity Certificate by Google 
