@@ -8,7 +8,7 @@
 - Virtual network run as a Security Operations Center (SOC)
   - [Network Security Lab with pfSense and Active Directory](https://github.com/ChrisXioannou/SOC_PFSPLINE)
 - Intrusion Detection System Using Supervised Machine Learning Models
-- [AI-powered intrusion detection](https://github.com/ChrisXioannou/Intrusion-Detection-System-Using-Supervised-Machine-Learning-Models)
+  - [AI-powered Intrusion Detection](https://github.com/ChrisXioannou/Intrusion-Detection-System-Using-Supervised-Machine-Learning-Models)
   
 ## 💻 Programming Projects: 
 
