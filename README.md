@@ -16,6 +16,7 @@
   - [AirportHub with GUI](https://github.com/ChrisXioannou/Airport-Hub-Manager)
 - Python: ChatBot used as a Psychotherapist
   - [Psychotherapist Chatbot](https://github.com/ChrisXioannou/Psychotherapist-Chatbot)
+- Face-Classification-with-Neural-Networks
   - [AI Generated Face Discovery](https://github.com/ChrisXioannou/Face-Classification-with-Neural-Networks)
 
 
