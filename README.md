@@ -16,7 +16,7 @@
 - Python: ChatBot used as a Psychotherapist
   - [Psychotherapist Chatbot](https://github.com/ChrisXioannou/Psychotherapist-Chatbot)
 
-## 💻 AI Projects: 
+## 🧠 AI Projects: 
 - Face-Classification-with-Neural-Networks
   - [Binary Face Classification](https://github.com/ChrisXioannou/Face-Classification-with-Neural-Networks)
 
