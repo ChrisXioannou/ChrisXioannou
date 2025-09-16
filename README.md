@@ -11,13 +11,14 @@
   - [AI-powered Intrusion Detection](https://github.com/ChrisXioannou/Intrusion-Detection-System-Using-Supervised-Machine-Learning-Models)
   
 ## 💻 Programming Projects: 
-
 - Java: Airport Hub Manager with GUI
   - [AirportHub with GUI](https://github.com/ChrisXioannou/Airport-Hub-Manager)
 - Python: ChatBot used as a Psychotherapist
   - [Psychotherapist Chatbot](https://github.com/ChrisXioannou/Psychotherapist-Chatbot)
+
+## 💻 AI Projects: 
 - Face-Classification-with-Neural-Networks
-  - [AI Generated Face Discovery](https://github.com/ChrisXioannou/Face-Classification-with-Neural-Networks)
+  - [Binary Face Classification](https://github.com/ChrisXioannou/Face-Classification-with-Neural-Networks)
 
 
 ## 📜 Certification
