@@ -16,8 +16,11 @@
   - [AirportHub with GUI](https://github.com/ChrisXioannou/Airport-Hub-Manager)
 - Python: ChatBot used as a Psychotherapist
   - [Psychotherapist Chatbot](https://github.com/ChrisXioannou/Psychotherapist-Chatbot)
+  - [AI Generated Face Discovery]([https://coursera.org/verify/professional-cert/P8EV4EFLXEVX](https://github.com/ChrisXioannou/Face-Classification-with-Neural-Networks))
 
 
 ## 📜 Certification
 - CyberSecurity Certificate by Google 
   - [Certificate Cybersecurity Link](https://coursera.org/verify/professional-cert/P8EV4EFLXEVX)
+  -
+
