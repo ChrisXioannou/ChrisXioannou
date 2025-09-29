@@ -25,15 +25,6 @@
 - CyberSecurity Certificate by Google 
   - [Certificate Cybersecurity Link](https://coursera.org/verify/professional-cert/P8EV4EFLXEVX)
 
-  <img src="./GIF%20by%20Vulture.com.gif"
-       alt="Cybersecurity Banner (Vulture)" width="500" />
-  <br/><br/>
-
-<!-- Right-side GIF -->
-<img src="./GIF%20by%20Vulture.com.gif" alt="Cyber GIF" align="right" width="240" />
-
-<!-- GIF floats on the right of this section -->
-
 
 ## 👨‍💻 Cyber Security Projects:
 <img src="./GIF%20by%20Vulture.com.gif" alt="Cyber GIF" align="right" width="400" />
