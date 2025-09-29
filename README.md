@@ -29,3 +29,36 @@
        alt="Cybersecurity Banner (Vulture)" width="500" />
   <br/><br/>
 
+<!-- put this at the very top of your README section -->
+<img src="./Flashing%20Cyber%20Security%20GIF%20by%20Siemens.gif"
+     alt="cyber gif" align="right" width="260" />
+
+### HI, I'M CHRIS
+Systems Engineer focused on **Cybersecurity & AI**.  
+- 🛡️ SOC / Blue team labs  
+- 🤖 ML for intrusion detection  
+- 📚 CTF write-ups & tools
+
+[LinkedIn](https://www.linkedin.com/in/christos-hadjioannou-/) • [Email](mailto:christosioannou@gmail.com)
+
+
+<table>
+  <tr>
+    <td>
+      
+### HI, I'M CHRIS
+Systems Engineer focused on **Cybersecurity & AI**.  
+- 🛡️ SOC / Blue team labs  
+- 🤖 ML for intrusion detection  
+- 🧪 CTF write-ups & tools  
+
+[LinkedIn](https://www.linkedin.com/in/christos-hadjioannou-/) • [Email](mailto:christosioannou@gmail.com)
+
+    </td>
+    <td width="35%">
+      <img src="./Flashing%20Cyber%20Security%20GIF%20by%20Siemens.gif"
+           alt="cyber gif" width="100%" />
+    </td>
+  </tr>
+</table>
+
