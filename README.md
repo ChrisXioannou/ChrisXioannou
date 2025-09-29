@@ -25,28 +25,7 @@
 - CyberSecurity Certificate by Google 
   - [Certificate Cybersecurity Link](https://coursera.org/verify/professional-cert/P8EV4EFLXEVX)
 
-<div align="center">
-  <!-- Siemens banner -->
-  <img src="./Flashing%20Cyber%20Security%20GIF%20by%20Siemens.gif"
-       alt="Cybersecurity Glitch Banner (Siemens)" width="360" />
-  <br/><br/>
-
-  <!-- Vulture -->
   <img src="./GIF%20by%20Vulture.com.gif"
-       alt="Cybersecurity Banner (Vulture)" width="360" />
+       alt="Cybersecurity Banner (Vulture)" width="500" />
   <br/><br/>
 
-  <!-- Computer hacking -->
-  <img src="./computer%20hacking%20GIF.gif"
-       alt="Computer Hacking GIF" width="360" />
-  <br/><br/>
-
-  <!-- Programming hackers -->
-  <img src="./programming%20hackers%20GIF.gif"
-       alt="Programming Hackers GIF" width="360" />
-  <br/><br/>
-
-  <!-- VR hackers -->
-  <img src="./virtual%20reality%20hackers%20GIF.gif"
-       alt="Virtual Reality Hackers GIF" width="360" />
-</div>
