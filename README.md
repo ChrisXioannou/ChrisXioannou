@@ -28,7 +28,7 @@
 <div align="center">
   <!-- Banner GIF -->
   <img src="./Flashing%20Cyber%20Security%20GIF%20by%20Siemens.gif"
-       alt="Cybersecurity Glitch Banner" width="900" />
+       alt="Cybersecurity Glitch Banner" width="300" />
 
   <!-- Typing headline -->
   <br/><br/>
