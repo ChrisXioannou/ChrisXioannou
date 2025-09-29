@@ -28,11 +28,4 @@
 <div align="center">
   <!-- Banner GIF -->
   <img src="./Flashing%20Cyber%20Security%20GIF%20by%20Siemens.gif"
-       alt="Cybersecurity Glitch Banner" width="300" />
-
-  <!-- Typing headline -->
-  <br/><br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00C853&vCenter=true&width=480&lines=HI%2C+I'M+CHRIS!" />
-  </a>
-</div>
+       alt="Cybersecurity Glitch Banner" width="500" />
