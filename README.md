@@ -2,9 +2,6 @@
 
 ## Systems Engineer, Focused on Cyber Security and AI 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&vCenter=true&width=600&lines=Hi%2C+I'm+Chris!+👋;Cybersecurity+%26+AI+Enthusiast;Systems+Engineer+%7C+Security+Researcher)](https://git.io/typing-svg)
-
-
 ## 👨‍💻 Cyber Security Projects:
 - Virtual network running Active Directory(Oracle VirtualBox)
   - [Active Directory Home Lab](https://github.com/ChrisXioannou/HomeLabDirectory)
