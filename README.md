@@ -24,15 +24,3 @@
 ## 📜 Certification
 - CyberSecurity Certificate by Google 
   - [Certificate Cybersecurity Link](https://coursera.org/verify/professional-cert/P8EV4EFLXEVX)
-
-
-## 👨‍💻 Cyber Security Projects:
-<img src="./GIF%20by%20Vulture.com.gif" alt="Cyber GIF" align="right" width="400" />
-- Virtual network running Active Directory (Oracle VirtualBox)
-  - [Active Directory Home Lab](https://github.com/ChrisXioannou/HomeLabDirectory)
-- Virtual network run as a Security Operations Center (SOC)
-  - [Network Security Lab with pfSense and Active Directory](https://github.com/ChrisXioannou/SOC_PFSPLINE)
-- Intrusion Detection System Using Supervised Machine Learning Models
-  - [AI-powered Intrusion Detection](https://github.com/ChrisXioannou/Intrusion-Detection-System-Using-Supervised-Machine-Learning-Models)
-
-<br clear="both"/>
