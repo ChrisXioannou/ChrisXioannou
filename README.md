@@ -33,9 +33,10 @@
 <img src="./GIF%20by%20Vulture.com.gif" alt="Cyber GIF" align="right" width="240" />
 
 <!-- GIF floats on the right of this section -->
-<img src="./GIF%20by%20Vulture.com.gif" alt="Cyber GIF" align="right" width="220" />
+
 
 ## 👨‍💻 Cyber Security Projects:
+<img src="./GIF%20by%20Vulture.com.gif" alt="Cyber GIF" align="right" width="400" />
 - Virtual network running Active Directory (Oracle VirtualBox)
   - [Active Directory Home Lab](https://github.com/ChrisXioannou/HomeLabDirectory)
 - Virtual network run as a Security Operations Center (SOC)
