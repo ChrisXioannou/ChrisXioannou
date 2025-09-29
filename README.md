@@ -32,9 +32,3 @@
 <!-- Right-side GIF -->
 <img src="./GIF%20by%20Vulture.com.gif" alt="Cyber GIF" align="right" width="240" />
 
-<!-- Typing headline -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00C853&vCenter=true&width=480&lines=HI%2C+I'M+CHRIS!" alt="Hi I'm Chris typing" />
-</a>
-
-<br clear="both"/>
