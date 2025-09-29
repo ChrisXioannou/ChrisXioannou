@@ -24,3 +24,13 @@
 ## 📜 Certification
 - CyberSecurity Certificate by Google 
   - [Certificate Cybersecurity Link](https://coursera.org/verify/professional-cert/P8EV4EFLXEVX)
+
+
+## test
+![Location](https://img.shields.io/badge/Thessaloniki-Greece-blue?style=flat&logo=google-maps)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)
+![Email](https://img.shields.io/badge/Email-christoshajioannou%40gmail.com-red?logo=gmail&style=flat)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisXioannou&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisXioannou&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=ChrisXioannou&color=blue)
