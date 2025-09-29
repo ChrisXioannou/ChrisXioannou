@@ -32,3 +32,15 @@
 <!-- Right-side GIF -->
 <img src="./GIF%20by%20Vulture.com.gif" alt="Cyber GIF" align="right" width="240" />
 
+<!-- GIF floats on the right of this section -->
+<img src="./GIF%20by%20Vulture.com.gif" alt="Cyber GIF" align="right" width="220" />
+
+## 👨‍💻 Cyber Security Projects:
+- Virtual network running Active Directory (Oracle VirtualBox)
+  - [Active Directory Home Lab](https://github.com/ChrisXioannou/HomeLabDirectory)
+- Virtual network run as a Security Operations Center (SOC)
+  - [Network Security Lab with pfSense and Active Directory](https://github.com/ChrisXioannou/SOC_PFSPLINE)
+- Intrusion Detection System Using Supervised Machine Learning Models
+  - [AI-powered Intrusion Detection](https://github.com/ChrisXioannou/Intrusion-Detection-System-Using-Supervised-Machine-Learning-Models)
+
+<br clear="both"/>
