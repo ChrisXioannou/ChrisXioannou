@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C853&vCenter=true&width=420&lines=Hi%2C+I'm+Chris)](https://git.io/typing-svg)
 
-
 ## Systems Engineer, Focused on Cyber Security and AI 
 
 ## 👨‍💻 Cyber Security Projects:
