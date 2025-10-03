@@ -9,17 +9,16 @@
   - [Network Security Lab with pfSense and Active Directory](https://github.com/ChrisXioannou/SOC_PFSPLINE)
 - Intrusion Detection System Using Supervised Machine Learning Models
   - [AI-powered Intrusion Detection](https://github.com/ChrisXioannou/Intrusion-Detection-System-Using-Supervised-Machine-Learning-Models)
+
+## 🧠 AI Projects: 
+- Face-Classification-with-Neural-Networks
+  - [Binary Face Classification](https://github.com/ChrisXioannou/Face-Classification-with-Neural-Networks)
   
 ## 💻 Programming Projects: 
 - Java: Airport Hub Manager with GUI
   - [AirportHub with GUI](https://github.com/ChrisXioannou/Airport-Hub-Manager)
 - Python: ChatBot used as a Psychotherapist
   - [Psychotherapist Chatbot](https://github.com/ChrisXioannou/Psychotherapist-Chatbot)
-
-## 🧠 AI Projects: 
-- Face-Classification-with-Neural-Networks
-  - [Binary Face Classification](https://github.com/ChrisXioannou/Face-Classification-with-Neural-Networks)
-
 
 ## 📜 Certification
 - CyberSecurity Certificate by Google 
