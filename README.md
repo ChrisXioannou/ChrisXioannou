@@ -27,4 +27,3 @@
 ## ⚙️ Currently Working On:
 - **AI Red Teaming Tool** – Scanning deep learning models for vulnerabilities
 - **Studying for CompTIA Network+** – Networking fundamentals and certification prep
-- 
