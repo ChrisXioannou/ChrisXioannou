@@ -27,5 +27,5 @@
   - [Certificate Cybersecurity Link](https://coursera.org/verify/professional-cert/P8EV4EFLXEVX)
 
 ## ⚙️ Currently Working On:
-- **AI Red Teaming Tool** – Scanning deep learning models for vulnerabilities
+- **Defend Agent** – Your AI cybesecurity assistant
 - **Studying for CompTIA Network+** – Networking fundamentals and certification prep
