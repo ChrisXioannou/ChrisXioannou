@@ -29,4 +29,3 @@
 ## ⚙️ Currently Working On:
 - **Defend Agent** – Your AI cybesecurity assistant
 - **Studying for CompTIA Network+** – Networking fundamentals and certification prep
-
