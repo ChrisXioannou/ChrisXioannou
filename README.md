@@ -30,7 +30,7 @@
 - **Defend Agent** – Your AI cybesecurity assistant
 - **Studying for CCNA** – Learning Networking fundamentals
 
-⭐ Bonus:
+## ⭐ Bonus:
 - Full PC Build: All the parts it used for my gaming/editing pc
   - [PC-BUILD](https://github.com/ChrisXioannou/PC-Build)
 
