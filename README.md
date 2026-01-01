@@ -26,12 +26,10 @@
 - CyberSecurity Certificate by Google 
   - [Certificate Cybersecurity Link](https://coursera.org/verify/professional-cert/P8EV4EFLXEVX)
 
-## ⚙️ Currently Working On:
-- **Defend Agent** – Your AI cybesecurity assistant
-- **Studying for CCNA** – Learning Networking fundamentals
-
 ## ⭐ Bonus:
 - Full PC Build: All the parts it used for my gaming/editing pc
   - [PC-BUILD](https://github.com/ChrisXioannou/PC-Build)
 
-
+## ⚙️ Currently Working On:
+- **Defend Agent** – Your AI cybesecurity assistant
+- **Studying for CCNA** – Learning Networking fundamentals
