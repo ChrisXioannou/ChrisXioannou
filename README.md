@@ -2,8 +2,6 @@
 
 ## Cybersecurity Engineer · AI Automation Builder · Startup Founder
 
----
-
 ## 🚀 Currently Building
 
 - **[Defend Agent](https://github.com/ChrisXioannou)** — AI-powered security assessment platform automating exposure checks across APIs, credentials, and access policies for businesses. Built entirely on n8n. Selected for **Start for Future (SFF)**, Germany's leading startup accelerator.
