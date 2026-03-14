@@ -18,7 +18,6 @@
 - Networking/Cybersecurity Interview Cheatsheet for Beginners
   - [CheatSheet and Questions](https://github.com/ChrisXioannou/Networking-Cybersecurity-Interview-Cheatsheet-for-Beginners)
 
----
 
 ## 🤖 AI & Automation
 
@@ -29,25 +28,17 @@
 - Psychotherapist Chatbot (Python)
   - [Psychotherapist Chatbot](https://github.com/ChrisXioannou/Psychotherapist-Chatbot)
 
----
-
 ## 💻 Programming Projects
 
 - Java: Airport Hub Manager with GUI
   - [AirportHub with GUI](https://github.com/ChrisXioannou/Airport-Hub-Manager)
 
----
-
 ## 📜 Certifications
 
 - Google Cybersecurity Certificate — [View Certificate](https://coursera.org/verify/professional-cert/P8EV4EFLXEVX)
 
----
-
 ## ⚙️ Skills
 
 `n8n` `AI Agents` `RAG Pipelines` `OpenAI` `Anthropic Claude` `Python` `JavaScript` `PowerShell` `Azure` `Entra ID` `Fortigate` `Active Directory` `Linux` `REST APIs` `Webhooks` `Supabase`
-
----
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00E5FF&vCenter=true&width=480&lines=BUILDING+EVERY+DAY)](https://git.io/typing-svg)
