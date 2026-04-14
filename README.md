@@ -34,7 +34,3 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00E5FF&vCenter=true&width=480&lines=NO+DAYS+OFF!)](https://git.io/typing-svg)
 
 
-
-
-
-
