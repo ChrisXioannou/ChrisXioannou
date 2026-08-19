@@ -1,3 +1,5 @@
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00C853&vCenter=true&width=480&lines=HI%2C+I'M+CHRIS!)](https://git.io/typing-svg)
 ## Systems Engineer, Focused on Cyber Security and AI 
 ## 👨‍💻 Cyber Security Projects:
@@ -24,7 +26,7 @@
 - CyberSecurity Certificate by Google 
   - [Certificate Cybersecurity Link](https://coursera.org/verify/professional-cert/P8EV4EFLXEVX)
 ## ⭐ Bonus:
-- Full PC Build: All the parts it used for my gaming/editing pc
+- Full PC Build: All the parts it used for my gaming/editing PC
   - [PC-BUILD](https://github.com/ChrisXioannou/PC-Build)
 ## ⚙️ Currently Working On:
 - **Defend Agent** – AI-powered security assessment platform built on n8n. Selected for Start for Future (SFF) accelerator, Germany. Launching soon.
@@ -32,4 +34,3 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00E5FF&vCenter=true&width=480&lines=NO+DAYS+OFF!)](https://git.io/typing-svg)
-
