@@ -9,6 +9,8 @@
 ## 📚 Notes & Cheatsheets:
 - Networking/Cybersecurity Interview Cheatsheet for Beginners with Questions
   - [CheatSheet and Questions](https://github.com/ChrisXioannou/Networking-Cybersecurity-Interview-Cheatsheet-for-Beginners)
+- CISSP study notes across all eight domains, written as decision rules
+  - [CISSP Notes](https://github.com/ChrisXioannou/cissp-notes)
 
 ## 🧠 AI Projects: 
 - Face-Classification-with-Neural-Networks
