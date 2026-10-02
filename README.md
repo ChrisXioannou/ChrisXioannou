@@ -7,8 +7,11 @@
   - [Network Security Lab with pfSense and Active Directory](https://github.com/ChrisXioannou/SOC_PFSPLINE)
 - Intrusion Detection System Using Supervised Machine Learning Models
   - [AI-powered Intrusion Detection](https://github.com/ChrisXioannou/Intrusion-Detection-System-Using-Supervised-Machine-Learning-Models)
+
+## 📚 Notes & Cheatsheets:
 - Networking/Cybersecurity Interview Cheatsheet for Beginners with Questions
   - [CheatSheet and Questions](https://github.com/ChrisXioannou/Networking-Cybersecurity-Interview-Cheatsheet-for-Beginners)
+
 ## 🧠 AI Projects: 
 - Face-Classification-with-Neural-Networks
   - [Binary Face Classification](https://github.com/ChrisXioannou/Face-Classification-with-Neural-Networks)
