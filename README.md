@@ -13,7 +13,6 @@
 ## 🧠 AI Projects: 
 - Face-Classification-with-Neural-Networks
   - [Binary Face Classification](https://github.com/ChrisXioannou/Face-Classification-with-Neural-Networks)
-- **n8n AI Automation & Agents** – Production workflows, AI agents with memory, RAG pipelines, and LLM integrations (OpenAI & Claude). Built for clients and powering Defend Agent. *(Private — commercial)*
 
 ## 📈 Investing Projects: 
 - OpenInsider – Insider-trading signal scraper and analysis
