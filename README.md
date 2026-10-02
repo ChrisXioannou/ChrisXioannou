@@ -16,7 +16,7 @@
 
 ## 📈 Investing Projects: 
 - OpenInsider – Insider-trading signal scraper and analysis
-  - Coming soon....
+  - [Inside Trading Alerts](https://github.com/ChrisXioannou/OpenInsider)
 
 ## 📜 Certification
 - CyberSecurity Certificate by Google
