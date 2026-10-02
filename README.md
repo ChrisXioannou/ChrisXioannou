@@ -21,14 +21,17 @@
   - [Psychotherapist Chatbot](https://github.com/ChrisXioannou/Psychotherapist-Chatbot)
 
 ## 📜 Certification
-- CyberSecurity Certificate by Google 
+- CyberSecurity Certificate by Google
+  - [Certified Information Systems Security Professional (CISSP)](https://www.credly.com/badges/0ca4e187-96e1-445f-8374-334afc6f9ab1/public_url)
+  - [Professional Security Operations Engineer Certification (PSOE)](https://www.credly.com/badges/cbe4bd7c-91db-4f8e-9ee4-97a413ccfdac/linked_in_profile)
   - [Certificate Cybersecurity Link](https://coursera.org/verify/professional-cert/P8EV4EFLXEVX)
+    
 ## ⭐ Bonus:
 - Full PC Build: All the parts it used for my gaming/editing pc
   - [PC-BUILD](https://github.com/ChrisXioannou/PC-Build)
 ## ⚙️ Currently Working On:
 - **Defend Agent** – AI-powered security assessment platform built on n8n. Selected for Start for Future (SFF) accelerator, Germany. Launching soon.
-- **Studying for CCNA** – Learning Networking fundamentals
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00E5FF&vCenter=true&width=480&lines=NO+DAYS+OFF!)](https://git.io/typing-svg)
