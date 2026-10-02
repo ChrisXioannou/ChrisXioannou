@@ -14,12 +14,10 @@
 - Face-Classification-with-Neural-Networks
   - [Binary Face Classification](https://github.com/ChrisXioannou/Face-Classification-with-Neural-Networks)
 - **n8n AI Automation & Agents** – Production workflows, AI agents with memory, RAG pipelines, and LLM integrations (OpenAI & Claude). Built for clients and powering Defend Agent. *(Private — commercial)*
-  
-## 💻 Programming Projects: 
-- Java: Airport Hub Manager with GUI
-  - [AirportHub with GUI](https://github.com/ChrisXioannou/Airport-Hub-Manager)
-- Python: ChatBot used as a Psychotherapist
-  - [Psychotherapist Chatbot](https://github.com/ChrisXioannou/Psychotherapist-Chatbot)
+
+## 📈 Investing Projects: 
+- OpenInsider – Insider-trading signal scraper and analysis
+  - Coming soon....
 
 ## 📜 Certification
 - CyberSecurity Certificate by Google
