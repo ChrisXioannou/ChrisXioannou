@@ -24,7 +24,7 @@
 - CyberSecurity Certificate by Google
   - [Certified Information Systems Security Professional (CISSP)](https://www.credly.com/badges/0ca4e187-96e1-445f-8374-334afc6f9ab1/public_url)
   - [Professional Security Operations Engineer Certification (PSOE)](https://www.credly.com/badges/cbe4bd7c-91db-4f8e-9ee4-97a413ccfdac/linked_in_profile)
-  - [Certificate Cybersecurity Link](https://coursera.org/verify/professional-cert/P8EV4EFLXEVX)
+  - [Certificate Cybersecurity](https://coursera.org/verify/professional-cert/P8EV4EFLXEVX)
     
 ## ⭐ Bonus:
 - Full PC Build: All the parts it used for my gaming/editing pc
