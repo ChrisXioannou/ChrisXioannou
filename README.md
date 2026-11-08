@@ -27,7 +27,8 @@
   - [PSOE link](https://www.credly.com/badges/cbe4bd7c-91db-4f8e-9ee4-97a413ccfdac/linked_in_profile)
 - CyberSecurity Certificate by Google
   - [Certificate link](https://coursera.org/verify/professional-cert/P8EV4EFLXEVX)
-    
+
+
 ## ⭐ Bonus:
 - Full PC Build: All the parts it used for my gaming/editing pc
   - [PC-BUILD](https://github.com/ChrisXioannou/PC-Build)
