@@ -1,3 +1,5 @@
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00C853&vCenter=true&width=480&lines=HI%2C+I'M+CHRIS!)](https://git.io/typing-svg)
 ## Cyber Security Engineer & Analyst
 ## 👨‍💻 Cyber Security Projects:
@@ -30,7 +32,7 @@
 
 
 ## ⭐ Bonus:
-- Full PC Build: All the parts it used for my gaming/editing pc
+- Full PC Build: All the parts it used for my gaming/editing PC
   - [PC-BUILD](https://github.com/ChrisXioannou/PC-Build)
 ## ⚙️ Currently Working On:
 - **Defend Agent** – AI-powered security assessment platform built on n8n. Selected for Start for Future (SFF) accelerator, Germany. Launching soon.
